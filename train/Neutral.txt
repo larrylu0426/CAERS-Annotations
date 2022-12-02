@@ -1,3 +1,4 @@
+train/Neutral/0001.png,4,274,68,376,170
 train/Neutral/0002.png,4,305,68,407,170
 train/Neutral/0004.png,4,310,98,392,180
 train/Neutral/0005.png,4,315,68,417,170

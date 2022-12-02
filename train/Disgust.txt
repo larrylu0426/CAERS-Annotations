@@ -1,3 +1,4 @@
+train/Disgust/0001.png,1,347,110,432,195
 train/Disgust/0002.png,1,347,110,432,195
 train/Disgust/0003.png,1,347,102,432,187
 train/Disgust/0004.png,1,347,110,432,195

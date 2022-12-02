@@ -1,3 +1,4 @@
+train/Fear/0001.png,2,351,81,421,152
 train/Fear/0002.png,2,339,67,423,152
 train/Fear/0003.png,2,351,81,421,152
 train/Fear/0004.png,2,351,74,421,145

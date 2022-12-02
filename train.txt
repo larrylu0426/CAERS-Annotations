@@ -721,7 +721,7 @@ train/Sad/4278.png,5,245,85,368,207
 train/Angry/5670.png,0,308,107,406,205
 train/Disgust/5015.png,1,208,110,331,232
 train/Disgust/0642.png,1,218,102,303,187
-train/Angry/2903.png,0,541,152,489,77
+train/Angry/2903.png,0,489,77,541,152
 train/Happy/0626.png,3,348,81,416,150
 train/Surprise/6699.png,6,246,67,317,137
 train/Angry/5095.png,0,224,95,292,164
@@ -750,7 +750,7 @@ train/Disgust/0661.png,1,272,110,343,180
 train/Surprise/0524.png,6,296,76,380,161
 train/Sad/2270.png,5,339,84,423,169
 train/Sad/5382.png,5,297,101,444,247
-train/Angry/3362.png,0,348,170,260,87
+train/Angry/3362.png,0,260,87,348,170
 train/Surprise/6578.png,6,270,85,392,207
 train/Angry/1660.png,0,285,73,367,155
 train/Neutral/0916.png,4,451,117,522,188
@@ -857,7 +857,7 @@ train/Fear/5844.png,2,282,81,352,152
 train/Sad/0149.png,5,287,93,372,178
 train/Neutral/5390.png,4,286,87,404,205
 train/Disgust/2090.png,1,249,98,371,220
-train/Angry/1005.png,0,422,216,354,107
+train/Angry/1005.png,0,354,107,422,216
 train/Neutral/3744.png,4,358,59,429,130
 train/Happy/5575.png,3,333,87,431,185
 train/Fear/5416.png,2,249,98,371,220
@@ -1398,7 +1398,7 @@ train/Happy/1871.png,3,164,59,333,229
 train/Happy/6445.png,3,145,58,349,262
 train/Disgust/6964.png,1,253,67,337,152
 train/Surprise/4887.png,6,261,98,383,220
-train/Angry/1605.png,0,377,181,312,82
+train/Angry/1605.png,0,312,82,377,181
 train/Angry/6785.png,0,250,87,368,205
 train/Fear/1071.png,2,274,78,376,180
 train/Neutral/6195.png,4,202,99,303,201
@@ -1698,7 +1698,7 @@ train/Fear/6983.png,2,196,67,266,137
 train/Disgust/6008.png,1,223,56,369,203
 train/Surprise/1576.png,6,407,93,492,178
 train/Happy/3605.png,3,304,77,402,175
-train/Angry/5712.png,0,369,163,299,64
+train/Angry/5712.png,0,299,64,369,163
 train/Surprise/0081.png,6,212,130,314,232
 train/Surprise/2567.png,6,305,68,407,170
 train/Fear/0175.png,2,253,89,355,191
@@ -1801,7 +1801,7 @@ train/Angry/3821.png,0,344,58,548,262
 train/Disgust/5872.png,1,181,59,252,130
 train/Fear/2141.png,2,239,145,323,230
 train/Sad/2154.png,5,366,74,542,250
-train/Angry/6674.png,0,352,280,226,125
+train/Angry/6674.png,0,226,125,352,280
 train/Happy/5951.png,3,310,99,428,216
 train/Sad/4510.png,5,100,128,276,304
 train/Happy/3208.png,3,125,110,295,280
@@ -2010,9 +2010,9 @@ train/Angry/2637.png,0,200,110,318,228
 train/Angry/5598.png,0,250,110,368,228
 train/Angry/0901.png,0,175,88,243,157
 train/Neutral/5285.png,4,145,99,247,201
-train/Angry/2538.png,0,503,153,428,52
+train/Angry/2538.png,0,428,52,503,153
 train/Angry/0710.png,0,271,110,389,228
-train/Angry/4973.png,0,325,197,225,62
+train/Angry/4973.png,0,225,62,325,197
 train/Angry/2034.png,0,272,77,329,134
 train/Disgust/5123.png,1,257,102,342,187
 train/Happy/6543.png,3,226,99,344,216
@@ -2875,7 +2875,7 @@ train/Neutral/6106.png,4,160,130,262,232
 train/Surprise/2132.png,6,358,81,429,152
 train/Neutral/5005.png,4,149,122,272,245
 train/Fear/6447.png,2,222,59,307,144
-train/Angry/5145.png,0,306,166,181,55
+train/Angry/5145.png,0,181,55,306,166
 train/Disgust/0560.png,1,244,102,329,187
 train/Happy/1548.png,3,252,73,334,155
 train/Surprise/3295.png,6,294,58,396,160
@@ -3003,7 +3003,7 @@ train/Surprise/0846.png,6,320,121,381,168
 train/Fear/3243.png,2,279,109,381,211
 train/Neutral/3685.png,4,199,48,321,170
 train/Neutral/4970.png,4,224,117,365,258
-train/Angry/0111.png,0,358,190,287,88
+train/Angry/0111.png,0,287,88,358,190
 train/Fear/6699.png,2,212,68,314,170
 train/Surprise/1456.png,6,293,95,364,166
 train/Surprise/2836.png,6,270,84,355,169
@@ -3091,12 +3091,12 @@ train/Angry/5884.png,0,208,102,349,244
 train/Happy/3244.png,3,274,75,392,193
 train/Fear/5398.png,2,224,85,346,207
 train/Fear/0606.png,2,207,81,278,152
-train/Angry/5328.png,0,261,198,182,87
+train/Angry/5328.png,0,182,87,261,198
 train/Sad/3880.png,5,334,102,404,173
 train/Neutral/6506.png,4,159,85,281,207
 train/Surprise/3778.png,6,156,71,302,218
 train/Fear/0332.png,2,236,172,358,294
-train/Angry/1077.png,0,325,158,262,88
+train/Angry/1077.png,0,262,88,325,158
 train/Disgust/2286.png,1,211,98,334,220
 train/Angry/4561.png,0,268,87,366,185
 train/Disgust/2644.png,1,92,102,177,187
@@ -3848,11 +3848,11 @@ train/Neutral/2329.png,4,365,87,463,185
 train/Angry/1351.png,0,293,73,375,155
 train/Fear/1776.png,2,181,58,283,160
 train/Happy/0386.png,3,405,107,503,205
-train/Angry/1761.png,0,422,179,348,80
+train/Angry/1761.png,0,348,80,422,179
 train/Happy/0418.png,3,310,90,392,172
 train/Surprise/5863.png,6,294,146,353,205
 train/Surprise/5754.png,6,160,58,262,160
-train/Angry/1717.png,0,323,192,245,94
+train/Angry/1717.png,0,245,94,323,192
 train/Fear/2990.png,2,296,66,345,115
 train/Sad/5415.png,5,237,71,384,218
 train/Disgust/3792.png,1,248,67,333,152
@@ -3987,7 +3987,7 @@ train/Fear/6742.png,2,208,86,354,233
 train/Surprise/3477.png,6,222,68,324,170
 train/Happy/2836.png,3,166,88,308,230
 train/Fear/6294.png,2,142,81,354,293
-train/Angry/3111.png,0,290,153,229,53
+train/Angry/3111.png,0,229,53,290,153
 train/Sad/4537.png,5,243,99,345,201
 train/Sad/1169.png,5,304,110,389,195
 train/Happy/0077.png,3,327,109,395,177
@@ -4070,7 +4070,7 @@ train/Happy/3638.png,3,313,116,382,184
 train/Surprise/3633.png,6,335,85,457,207
 train/Fear/2976.png,2,211,85,334,207
 train/Happy/3884.png,3,136,88,277,230
-train/Angry/6363.png,0,337,282,185,131
+train/Angry/6363.png,0,185,131,337,282
 train/Angry/4711.png,0,213,97,312,195
 train/Fear/2578.png,2,137,110,259,232
 train/Fear/2868.png,2,165,109,267,211
@@ -4125,7 +4125,7 @@ train/Happy/6578.png,3,236,131,378,273
 train/Angry/2161.png,0,379,75,497,193
 train/Fear/5133.png,2,157,101,304,247
 train/Angry/4324.png,0,155,77,253,175
-train/Angry/3763.png,0,302,197,161,58
+train/Angry/3763.png,0,161,58,302,197
 train/Sad/1145.png,5,458,80,517,139
 train/Angry/1841.png,0,355,77,453,175
 train/Angry/0909.png,0,417,68,485,136
@@ -4383,7 +4383,7 @@ train/Angry/3985.png,0,134,88,202,157
 train/Disgust/6173.png,1,208,110,331,232
 train/Sad/1387.png,5,330,84,415,169
 train/Surprise/0293.png,6,196,62,255,121
-train/Angry/2650.png,0,330,201,254,101
+train/Angry/2650.png,0,254,101,330,201
 train/Surprise/2897.png,6,215,41,362,188
 train/Neutral/0084.png,4,244,90,326,172
 train/Happy/1372.png,3,360,140,442,221
@@ -4861,7 +4861,7 @@ train/Neutral/1357.png,4,329,153,400,223
 train/Sad/6558.png,5,143,56,289,203
 train/Fear/1290.png,2,377,68,479,170
 train/Happy/0194.png,3,318,90,400,172
-train/Angry/2701.png,0,372,296,200,111
+train/Angry/2701.png,0,200,111,372,296
 train/Surprise/5768.png,6,243,99,345,201
 train/Happy/4995.png,3,178,107,277,205
 train/Sad/2234.png,5,185,71,332,218
@@ -5080,7 +5080,7 @@ train/Disgust/4381.png,1,247,56,393,203
 train/Happy/6690.png,3,176,59,346,229
 train/Surprise/5716.png,6,208,73,331,195
 train/Happy/3686.png,3,166,102,308,244
-train/Angry/1026.png,0,419,176,333,82
+train/Angry/1026.png,0,333,82,419,176
 train/Happy/0893.png,3,230,75,299,143
 train/Fear/0041.png,2,351,74,421,145
 train/Angry/2593.png,0,181,76,351,246
@@ -5355,7 +5355,7 @@ train/Fear/6774.png,2,208,101,354,247
 train/Sad/4920.png,5,196,67,266,137
 train/Sad/0397.png,5,285,92,344,151
 train/Surprise/1423.png,6,285,68,344,127
-train/Angry/1578.png,0,381,177,315,72
+train/Angry/1578.png,0,315,72,381,177
 train/Happy/5203.png,3,250,99,368,216
 train/Disgust/5132.png,1,160,130,262,232
 train/Sad/0396.png,5,285,98,344,157
@@ -5557,7 +5557,7 @@ train/Fear/0906.png,2,418,78,520,180
 train/Sad/5453.png,5,283,98,405,220
 train/Neutral/3467.png,4,223,110,399,286
 train/Neutral/6425.png,4,233,78,334,180
-train/Angry/3131.png,0,458,254,343,125
+train/Angry/3131.png,0,343,125,458,254
 train/Sad/5332.png,5,248,50,333,135
 train/Surprise/6830.png,6,225,51,274,100
 train/Surprise/6965.png,6,327,71,473,218
@@ -6006,7 +6006,7 @@ train/Surprise/1002.png,6,330,110,415,195
 train/Angry/0709.png,0,285,117,384,215
 train/Disgust/6108.png,1,211,85,334,207
 train/Happy/2709.png,3,123,117,265,258
-train/Angry/3615.png,0,460,271,297,88
+train/Angry/3615.png,0,297,88,460,271
 train/Happy/3655.png,3,195,102,337,244
 train/Happy/1584.png,3,236,147,334,245
 train/Fear/1486.png,2,270,93,355,178
@@ -6026,7 +6026,7 @@ train/Neutral/1480.png,4,181,120,283,222
 train/Fear/5962.png,2,233,122,355,245
 train/Disgust/5273.png,1,221,98,343,220
 train/Neutral/6193.png,4,224,145,295,216
-train/Angry/4207.png,0,388,174,311,101
+train/Angry/4207.png,0,311,101,388,174
 train/Surprise/0804.png,6,364,84,449,169
 train/Angry/4936.png,0,222,88,363,230
 train/Neutral/5083.png,4,213,110,298,195
@@ -6079,7 +6079,7 @@ train/Sad/6450.png,5,146,85,269,207
 train/Surprise/4063.png,6,284,109,386,211
 train/Surprise/0967.png,6,379,88,450,159
 train/Happy/2607.png,3,358,-20,652,273
-train/Angry/4134.png,0,242,247,124,113
+train/Angry/4134.png,0,124,113,242,247
 train/Disgust/5165.png,1,326,50,411,135
 train/Sad/0790.png,5,149,84,234,169
 train/Angry/4077.png,0,279,110,397,228
@@ -6502,7 +6502,7 @@ train/Happy/6326.png,3,193,145,335,287
 train/Surprise/1692.png,6,227,93,312,178
 train/Angry/5054.png,0,139,57,237,155
 train/Angry/6384.png,0,262,75,380,193
-train/Angry/5928.png,0,392,175,305,80
+train/Angry/5928.png,0,305,80,392,175
 train/Surprise/6276.png,6,202,71,349,218
 train/Surprise/6861.png,6,225,92,401,268
 train/Happy/3179.png,3,107,102,249,244
@@ -7389,7 +7389,7 @@ train/Fear/0235.png,2,325,109,427,211
 train/Disgust/3093.png,1,262,86,408,233
 train/Fear/3244.png,2,279,109,381,211
 train/Disgust/5342.png,1,210,124,281,195
-train/Angry/2251.png,0,363,209,231,94
+train/Angry/2251.png,0,231,94,363,209
 train/Angry/5647.png,0,211,110,381,280
 train/Angry/4752.png,0,255,99,373,216
 train/Surprise/4178.png,6,181,37,283,139
@@ -7761,7 +7761,7 @@ train/Angry/2773.png,0,398,59,539,201
 train/Angry/6960.png,0,343,87,441,185
 train/Happy/3834.png,3,150,74,292,215
 train/Fear/6375.png,2,217,116,364,262
-train/Angry/5665.png,0,230,143,170,79
+train/Angry/5665.png,0,170,79,230,143
 train/Fear/2580.png,2,238,68,340,170
 train/Happy/0360.png,3,310,106,392,188
 train/Disgust/2287.png,1,113,71,260,218
@@ -7802,7 +7802,7 @@ train/Fear/1946.png,2,212,78,314,180
 train/Sad/3176.png,5,134,146,310,322
 train/Neutral/5643.png,4,262,86,408,233
 train/Surprise/6217.png,6,204,99,306,201
-train/Angry/0773.png,0,474,199,394,91
+train/Angry/0773.png,0,394,91,474,199
 train/Disgust/1204.png,1,293,81,364,152
 train/Fear/3518.png,2,291,86,438,233
 train/Fear/2331.png,2,157,130,304,277
@@ -7815,7 +7815,7 @@ train/Sad/2208.png,5,367,59,620,313
 train/Sad/3194.png,5,170,71,317,218
 train/Surprise/4382.png,6,91,81,303,293
 train/Sad/0155.png,5,344,74,414,145
-train/Angry/1946.png,0,427,163,344,77
+train/Angry/1946.png,0,344,77,427,163
 train/Fear/1530.png,2,205,74,381,250
 train/Disgust/3707.png,1,294,68,396,170
 train/Fear/6972.png,2,163,48,265,149
@@ -8563,7 +8563,7 @@ train/Happy/5318.png,3,203,51,320,169
 train/Happy/3052.png,3,281,88,423,230
 train/Fear/4964.png,2,196,110,318,232
 train/Fear/3234.png,2,325,84,409,169
-train/Angry/3005.png,0,414,172,316,52
+train/Angry/3005.png,0,316,52,414,172
 train/Disgust/0108.png,1,313,67,398,152
 train/Fear/0088.png,2,287,67,372,152
 train/Neutral/0335.png,4,261,102,346,187
@@ -8673,7 +8673,7 @@ train/Disgust/1899.png,1,336,89,438,191
 train/Neutral/1568.png,4,360,73,482,195
 train/Fear/3035.png,2,273,41,358,126
 train/Sad/4782.png,5,289,67,360,137
-train/Angry/1646.png,0,415,138,336,25
+train/Angry/1646.png,0,336,25,415,138
 train/Fear/6092.png,2,294,171,396,273
 train/Angry/4185.png,0,214,75,332,193
 train/Angry/2094.png,0,366,46,503,230
@@ -8782,7 +8782,7 @@ train/Happy/4597.png,3,189,81,257,150
 train/Fear/4007.png,2,113,86,260,233
 train/Angry/4783.png,0,191,87,309,205
 train/Disgust/3216.png,1,253,59,324,130
-train/Angry/2222.png,0,551,237,399,102
+train/Angry/2222.png,0,399,102,551,237
 train/Sad/4889.png,5,274,41,359,126
 train/Surprise/3575.png,6,537,102,608,173
 train/Fear/0632.png,2,236,95,307,166
@@ -8866,7 +8866,7 @@ train/Disgust/0628.png,1,229,124,300,195
 train/Happy/5133.png,3,188,77,287,175
 train/Sad/4230.png,5,165,92,341,268
 train/Sad/3171.png,5,255,81,466,293
-train/Angry/1994.png,0,413,183,331,72
+train/Angry/1994.png,0,331,72,413,183
 train/Neutral/4522.png,4,410,98,532,220
 train/Fear/3306.png,2,249,98,371,220
 train/Disgust/6608.png,1,276,116,423,262
@@ -9257,7 +9257,7 @@ train/Sad/3523.png,5,162,85,284,207
 train/Angry/5457.png,0,179,74,320,215
 train/Happy/5008.png,3,168,67,267,165
 train/Sad/3610.png,5,172,86,319,233
-train/Angry/2677.png,0,376,237,232,110
+train/Angry/2677.png,0,232,110,376,237
 train/Disgust/3832.png,1,82,110,259,286
 train/Sad/4654.png,5,247,71,393,218
 train/Surprise/4912.png,6,264,102,349,187
@@ -9787,7 +9787,7 @@ train/Happy/4645.png,3,370,71,427,128
 train/Happy/3398.png,3,267,117,408,258
 train/Happy/2083.png,3,319,63,437,181
 train/Fear/2367.png,2,331,120,432,222
-train/Angry/6448.png,0,314,219,212,87
+train/Angry/6448.png,0,212,87,314,219
 train/Angry/6437.png,0,179,88,268,179
 train/Angry/1236.png,0,295,57,394,155
 train/Happy/3927.png,3,222,88,363,230
@@ -9907,7 +9907,7 @@ train/Disgust/4061.png,1,233,78,334,180
 train/Happy/5120.png,3,351,131,492,273
 train/Sad/0847.png,5,215,67,285,137
 train/Angry/4045.png,0,123,102,265,244
-train/Angry/4154.png,0,403,143,344,65
+train/Angry/4154.png,0,344,65,403,143
 train/Happy/3658.png,3,224,102,365,244
 train/Surprise/1115.png,6,260,101,406,247
 train/Neutral/1679.png,4,360,90,442,172
@@ -10105,7 +10105,7 @@ train/Angry/1233.png,0,328,64,393,152
 train/Neutral/0448.png,4,470,104,529,163
 train/Disgust/1641.png,1,401,67,472,137
 train/Sad/3660.png,5,176,99,278,201
-train/Angry/4841.png,0,293,222,213,103
+train/Angry/4841.png,0,213,103,293,222
 train/Disgust/0144.png,1,201,84,286,169
 train/Neutral/5954.png,4,367,37,469,139
 train/Sad/3564.png,5,241,117,311,188
@@ -10153,7 +10153,7 @@ train/Disgust/4212.png,1,295,122,417,245
 train/Disgust/3127.png,1,262,86,408,233
 train/Disgust/5244.png,1,203,81,274,152
 train/Sad/6653.png,5,291,59,376,144
-train/Angry/5007.png,0,276,158,193,76
+train/Angry/5007.png,0,193,76,276,158
 train/Fear/0412.png,2,430,99,476,162
 train/Fear/1731.png,2,215,71,362,218
 train/Sad/4726.png,5,179,84,264,169
@@ -10183,7 +10183,7 @@ train/Angry/1974.png,0,285,87,384,185
 train/Happy/0617.png,3,265,27,364,125
 train/Surprise/1332.png,6,394,81,464,152
 train/Disgust/5804.png,1,318,89,420,191
-train/Angry/4505.png,0,313,238,184,82
+train/Angry/4505.png,0,184,82,313,238
 train/Neutral/1555.png,4,397,98,519,220
 train/Sad/4702.png,5,203,110,274,180
 train/Fear/5350.png,2,147,74,323,250
@@ -10288,7 +10288,7 @@ train/Fear/6892.png,2,210,59,294,144
 train/Neutral/6227.png,4,235,86,284,135
 train/Angry/3254.png,0,211,87,329,205
 train/Angry/3351.png,0,343,99,461,216
-train/Angry/6708.png,0,256,226,130,94
+train/Angry/6708.png,0,130,94,256,226
 train/Sad/2294.png,5,236,98,358,220
 train/Sad/5470.png,5,297,101,444,247
 train/Sad/0448.png,5,293,88,364,159
@@ -11259,7 +11259,7 @@ train/Neutral/6515.png,4,258,87,356,185
 train/Fear/0781.png,2,207,88,278,159
 train/Happy/0197.png,3,318,98,400,180
 train/Surprise/1580.png,6,436,107,475,177
-train/Angry/6954.png,0,354,175,251,60
+train/Angry/6954.png,0,251,60,354,175
 train/Neutral/1857.png,4,294,92,470,268
 train/Disgust/1883.png,1,349,71,496,218
 train/Angry/6980.png,0,247,80,309,164
@@ -11288,7 +11288,7 @@ train/Fear/6307.png,2,291,71,438,218
 train/Disgust/3633.png,1,121,81,332,293
 train/Sad/5071.png,5,159,98,281,220
 train/Surprise/2931.png,6,235,76,320,161
-train/Angry/3179.png,0,359,204,239,76
+train/Angry/3179.png,0,239,76,359,204
 train/Surprise/2035.png,6,502,84,587,169
 train/Sad/6676.png,5,257,84,342,169
 train/Fear/0602.png,2,200,74,271,145
@@ -11728,7 +11728,7 @@ train/Angry/6698.png,0,186,78,390,282
 train/Sad/0988.png,5,339,119,423,204
 train/Neutral/0827.png,4,210,102,294,187
 train/Sad/2989.png,5,141,86,288,233
-train/Angry/4851.png,0,446,180,347,71
+train/Angry/4851.png,0,347,71,446,180
 train/Surprise/6590.png,6,118,74,294,250
 train/Neutral/1025.png,4,229,74,300,145
 train/Fear/3668.png,2,143,86,289,233
@@ -11925,7 +11925,7 @@ train/Angry/3627.png,0,96,78,300,282
 train/Disgust/0985.png,1,321,72,395,159
 train/Disgust/5583.png,1,207,74,383,250
 train/Disgust/0183.png,1,394,102,464,173
-train/Angry/3291.png,0,347,224,231,86
+train/Angry/3291.png,0,231,86,347,224
 train/Happy/2408.png,3,247,146,365,264
 train/Fear/3586.png,2,203,74,274,145
 train/Surprise/5256.png,6,274,93,359,178
@@ -12507,7 +12507,7 @@ train/Happy/3756.png,3,179,74,320,215
 train/Happy/2348.png,3,340,74,482,215
 train/Surprise/4453.png,6,232,71,379,218
 train/Surprise/4036.png,6,259,110,435,286
-train/Angry/0778.png,0,334,157,277,107
+train/Angry/0778.png,0,277,107,334,157
 train/Sad/0402.png,5,394,117,464,188
 train/Disgust/2147.png,1,211,110,334,232
 train/Angry/5846.png,0,251,75,319,143
@@ -12864,7 +12864,7 @@ train/Angry/0331.png,0,352,148,433,230
 train/Surprise/0662.png,6,382,93,466,178
 train/Happy/4953.png,3,251,88,319,157
 train/Neutral/5485.png,4,179,122,297,240
-train/Angry/6580.png,0,272,213,149,55
+train/Angry/6580.png,0,149,55,272,213
 train/Sad/1911.png,5,276,81,487,293
 train/Fear/2918.png,2,162,122,284,245
 train/Sad/4500.png,5,172,86,319,233
@@ -13301,7 +13301,7 @@ train/Fear/2444.png,2,60,74,236,250
 train/Happy/4292.png,3,203,75,320,193
 train/Surprise/1203.png,6,207,95,278,166
 train/Disgust/6468.png,1,202,116,349,262
-train/Angry/0805.png,0,384,180,306,93
+train/Angry/0805.png,0,306,93,384,180
 train/Disgust/3284.png,1,98,101,245,247
 train/Fear/5490.png,2,267,81,338,152
 train/Surprise/4047.png,6,286,85,408,207
@@ -13498,7 +13498,7 @@ train/Happy/5935.png,3,243,87,341,185
 train/Disgust/0060.png,1,284,99,386,201
 train/Fear/6523.png,2,185,60,396,271
 train/Neutral/5582.png,4,245,93,415,263
-train/Angry/0476.png,0,303,185,225,98
+train/Angry/0476.png,0,225,98,303,185
 train/Sad/3168.png,5,255,81,466,293
 train/Sad/5765.png,5,233,98,355,220
 train/Happy/6651.png,3,262,76,432,246
@@ -13532,7 +13532,7 @@ train/Fear/1203.png,2,313,67,398,152
 train/Disgust/4748.png,1,276,101,423,247
 train/Neutral/0210.png,4,339,93,423,178
 train/Disgust/5477.png,1,217,71,364,218
-train/Angry/3119.png,0,270,217,189,120
+train/Angry/3119.png,0,189,120,270,217
 train/Disgust/5071.png,1,210,95,281,166
 train/Angry/0237.png,0,256,87,354,185
 train/Neutral/6895.png,4,245,73,368,195
@@ -13747,7 +13747,7 @@ train/Surprise/5473.png,6,224,74,295,145
 train/Happy/1049.png,3,219,106,301,188
 train/Disgust/5643.png,1,173,99,275,201
 train/Angry/0635.png,0,410,81,492,163
-train/Angry/2777.png,0,301,201,189,81
+train/Angry/2777.png,0,189,81,301,201
 train/Happy/6870.png,3,200,59,342,201
 train/Disgust/1468.png,1,185,56,332,203
 train/Fear/1200.png,2,373,67,458,152
@@ -14131,7 +14131,7 @@ train/Surprise/1162.png,6,325,99,427,201
 train/Happy/0050.png,3,226,57,324,155
 train/Sad/3295.png,5,341,117,412,188
 train/Neutral/4043.png,4,348,110,470,232
-train/Angry/5451.png,0,286,216,177,66
+train/Angry/5451.png,0,177,66,286,216
 train/Angry/3655.png,0,159,138,315,247
 train/Angry/4950.png,0,320,102,389,170
 train/Happy/0051.png,3,285,106,367,188
@@ -15318,7 +15318,7 @@ train/Fear/1683.png,2,410,85,532,207
 train/Sad/3630.png,5,113,116,260,262
 train/Fear/1999.png,2,422,52,493,123
 train/Angry/4205.png,0,293,98,375,180
-train/Angry/4122.png,0,358,214,257,104
+train/Angry/4122.png,0,257,104,358,214
 train/Neutral/6481.png,4,236,85,358,207
 train/Sad/1158.png,5,346,89,448,191
 train/Surprise/0411.png,6,437,74,507,145
@@ -15777,7 +15777,7 @@ train/Angry/2102.png,0,283,31,424,172
 train/Angry/5555.png,0,259,87,348,238
 train/Disgust/0428.png,1,253,84,337,169
 train/Happy/0917.png,3,415,57,513,155
-train/Angry/6573.png,0,317,216,202,97
+train/Angry/6573.png,0,202,97,317,216
 train/Surprise/1495.png,6,315,99,417,201
 train/Happy/1388.png,3,305,87,404,185
 train/Fear/6097.png,2,274,182,376,284
@@ -15847,7 +15847,7 @@ train/Neutral/6247.png,4,274,76,359,161
 train/Sad/5685.png,5,233,110,355,232
 train/Fear/3037.png,2,149,92,208,151
 train/Angry/5943.png,0,342,72,430,186
-train/Sad/0857.png,5,438,139,398,88
+train/Sad/0857.png,5,398,88,438,139
 train/Neutral/6449.png,4,243,99,361,216
 train/Happy/5881.png,3,186,102,328,244
 train/Fear/6228.png,2,90,6,394,310
@@ -16012,7 +16012,7 @@ train/Angry/0820.png,0,376,130,444,198
 train/Neutral/6673.png,4,217,101,364,247
 train/Angry/6881.png,0,190,60,301,207
 train/Happy/0252.png,3,189,102,257,170
-train/Angry/6352.png,0,247,170,203,96
+train/Angry/6352.png,0,203,96,247,170
 train/Happy/4415.png,3,150,88,292,230
 train/Happy/6337.png,3,194,110,363,280
 train/Sad/3425.png,5,128,56,275,203
@@ -16226,7 +16226,7 @@ train/Disgust/4669.png,1,196,73,318,195
 train/Sad/3240.png,5,243,37,345,139
 train/Sad/1524.png,5,357,47,398,88
 train/Disgust/5422.png,1,330,50,389,109
-train/Angry/2314.png,0,311,209,129,30
+train/Angry/2314.png,0,129,30,311,209
 train/Surprise/2597.png,6,294,58,396,160
 train/Surprise/2759.png,6,253,89,355,191
 train/Disgust/3194.png,1,296,67,367,137
@@ -16597,7 +16597,7 @@ train/Sad/4722.png,5,145,93,230,178
 train/Neutral/1927.png,4,244,59,329,144
 train/Fear/4871.png,2,257,84,342,169
 train/Happy/6592.png,3,119,63,237,181
-train/Angry/2365.png,0,515,202,405,79
+train/Angry/2365.png,0,405,79,515,202
 train/Happy/4515.png,3,208,74,349,215
 train/Sad/6495.png,5,113,41,260,188
 train/Disgust/0425.png,1,270,110,355,195
@@ -17694,7 +17694,7 @@ train/Sad/6470.png,5,159,85,281,207
 train/Fear/3223.png,2,341,124,412,195
 train/Fear/2658.png,2,207,89,309,191
 train/Disgust/2116.png,1,224,122,346,245
-train/Sad/0731.png,5,72,156,6,88
+train/Sad/0731.png,5,6,88,72,156
 train/Disgust/1110.png,1,356,99,458,201
 train/Neutral/1403.png,4,335,90,417,172
 train/Angry/1346.png,0,295,63,413,181
@@ -18237,7 +18237,7 @@ train/Sad/2336.png,5,156,101,302,247
 train/Happy/6021.png,3,313,81,382,150
 train/Fear/6785.png,2,132,78,234,180
 train/Angry/2707.png,0,265,102,338,201
-train/Angry/4312.png,0,264,163,152,57
+train/Angry/4312.png,0,152,57,264,163
 train/Happy/1241.png,3,206,77,304,175
 train/Neutral/6838.png,4,205,67,290,152
 train/Fear/1628.png,2,236,73,358,195
@@ -18486,7 +18486,7 @@ train/Neutral/5626.png,4,248,84,333,169
 train/Happy/3477.png,3,328,140,391,211
 train/Angry/6797.png,0,294,74,435,215
 train/Surprise/6609.png,6,143,41,289,188
-train/Angry/5863.png,0,294,268,180,121
+train/Angry/5863.png,0,180,121,294,268
 train/Fear/6102.png,2,283,159,405,282
 train/Fear/4230.png,2,243,109,345,211
 train/Fear/3255.png,2,187,86,334,233
@@ -18652,7 +18652,7 @@ train/Neutral/0493.png,4,201,93,286,178
 train/Angry/0165.png,0,327,81,409,163
 train/Happy/0516.png,3,226,90,306,171
 train/Surprise/0829.png,6,336,95,407,166
-train/Angry/3112.png,0,297,146,227,72
+train/Angry/3112.png,0,227,72,297,146
 train/Fear/2453.png,2,24,110,201,286
 train/Angry/3091.png,0,197,102,338,244
 train/Angry/5441.png,0,308,47,406,145
@@ -18909,7 +18909,7 @@ train/Sad/4449.png,5,143,71,289,218
 train/Neutral/0319.png,4,200,52,271,123
 train/Disgust/6437.png,1,324,104,383,163
 train/Sad/0330.png,5,222,-4,324,98
-train/Angry/3051.png,0,485,250,362,91
+train/Angry/3051.png,0,362,91,485,250
 train/Neutral/2639.png,4,295,67,394,165
 train/Surprise/1771.png,6,372,88,443,159
 train/Happy/3695.png,3,109,74,251,215
@@ -19654,7 +19654,7 @@ train/Neutral/5494.png,4,251,102,392,244
 train/Happy/4906.png,3,279,74,421,215
 train/Neutral/3853.png,4,449,37,551,139
 train/Fear/3801.png,2,172,101,319,247
-train/Angry/6083.png,0,309,187,215,75
+train/Angry/6083.png,0,215,75,309,187
 train/Fear/4432.png,2,174,88,245,159
 train/Angry/0192.png,0,397,198,458,282
 train/Sad/6468.png,5,146,73,269,195
@@ -19968,7 +19968,7 @@ train/Neutral/3213.png,4,408,109,510,211
 train/Fear/0288.png,2,278,93,363,178
 train/Angry/0296.png,0,335,87,433,185
 train/Sad/1297.png,5,347,110,432,195
-train/Angry/2187.png,0,266,166,184,93
+train/Angry/2187.png,0,184,93,266,166
 train/Angry/4937.png,0,250,110,368,228
 train/Disgust/5279.png,1,196,73,318,195
 train/Sad/4379.png,5,306,101,453,247
@@ -20204,7 +20204,7 @@ train/Sad/4966.png,5,233,85,355,207
 train/Fear/3073.png,2,286,122,408,245
 train/Disgust/0028.png,1,386,71,435,120
 train/Sad/5999.png,5,196,110,318,232
-train/Angry/4880.png,0,401,282,236,68
+train/Angry/4880.png,0,236,68,401,282
 train/Angry/1071.png,0,310,115,392,197
 train/Disgust/6603.png,1,276,101,423,247
 train/Happy/1047.png,3,216,97,314,195
@@ -20422,7 +20422,7 @@ train/Surprise/0414.png,6,270,136,355,221
 train/Sad/2329.png,5,334,101,481,247
 train/Fear/5732.png,2,262,71,408,218
 train/Disgust/2003.png,1,393,34,646,287
-train/Angry/4204.png,0,373,177,297,98
+train/Angry/4204.png,0,297,98,373,177
 train/Sad/2952.png,5,137,85,259,207
 train/Neutral/5271.png,4,306,71,453,218
 train/Fear/5540.png,2,193,101,340,247
@@ -20925,7 +20925,7 @@ train/Disgust/0365.png,1,344,95,414,166
 train/Happy/1318.png,3,335,90,417,172
 train/Sad/5529.png,5,208,116,354,262
 train/Neutral/3466.png,4,215,130,362,277
-train/Angry/6017.png,0,403,194,322,71
+train/Angry/6017.png,0,322,71,403,194
 train/Sad/6050.png,5,118,92,294,268
 train/Sad/3602.png,5,307,85,430,207
 train/Surprise/6854.png,6,189,128,366,304
@@ -21296,7 +21296,7 @@ train/Angry/0498.png,0,260,81,342,163
 train/Angry/6695.png,0,104,37,308,241
 train/Surprise/1468.png,6,259,184,299,244
 train/Sad/0166.png,5,336,109,438,211
-train/Angry/2054.png,0,458,169,400,85
+train/Angry/2054.png,0,400,85,458,169
 train/Happy/0292.png,3,211,81,292,163
 train/Surprise/5220.png,6,317,102,402,187
 train/Fear/5762.png,2,159,85,281,207
@@ -21649,7 +21649,7 @@ train/Neutral/6461.png,4,193,71,340,218
 train/Surprise/5249.png,6,154,93,239,178
 train/Neutral/2188.png,4,404,81,616,293
 train/Sad/6711.png,5,308,76,393,161
-train/Angry/4195.png,0,350,272,208,141
+train/Angry/4195.png,0,208,141,350,272
 train/Happy/6994.png,3,208,88,349,230
 train/Fear/4720.png,2,300,67,385,152
 train/Sad/4166.png,5,222,99,324,201
@@ -22001,7 +22001,7 @@ train/Surprise/0080.png,6,212,120,314,222
 train/Neutral/0067.png,4,275,107,374,205
 train/Angry/3279.png,0,200,122,318,240
 train/Neutral/3675.png,4,334,101,481,247
-train/Angry/2204.png,0,368,261,215,113
+train/Angry/2204.png,0,215,113,368,261
 train/Sad/3241.png,5,222,48,324,149
 train/Disgust/2346.png,1,78,34,332,287
 train/Sad/4849.png,5,184,98,306,220
@@ -22517,7 +22517,7 @@ train/Surprise/3278.png,6,200,71,347,218
 train/Happy/0383.png,3,305,57,404,155
 train/Fear/3498.png,2,202,101,349,247
 train/Angry/5894.png,0,226,99,344,216
-train/Angry/1096.png,0,434,174,358,75
+train/Angry/1096.png,0,358,75,434,174
 train/Angry/6031.png,0,333,97,431,195
 train/Fear/2075.png,2,213,34,466,287
 train/Neutral/2535.png,4,185,86,332,233
@@ -23204,7 +23204,7 @@ train/Angry/2552.png,0,188,63,306,181
 train/Sad/3658.png,5,196,99,298,201
 train/Angry/2087.png,0,302,37,506,241
 train/Surprise/6191.png,6,222,109,324,211
-train/Angry/0067.png,0,389,161,315,70
+train/Angry/0067.png,0,315,70,389,161
 train/Angry/5856.png,0,310,106,392,188
 train/Disgust/6542.png,1,157,101,304,247
 train/Angry/5734.png,0,306,88,375,157
@@ -23798,7 +23798,7 @@ train/Neutral/1673.png,4,366,86,413,134
 train/Angry/6831.png,0,320,64,377,124
 train/Surprise/4639.png,6,232,145,379,292
 train/Happy/6953.png,3,452,7,550,105
-train/Angry/2206.png,0,301,240,163,102
+train/Angry/2206.png,0,163,102,301,240
 train/Happy/3515.png,3,231,122,349,240
 train/Disgust/0710.png,1,210,84,294,169
 train/Fear/6298.png,2,88,59,341,313
@@ -24278,7 +24278,7 @@ train/Surprise/4880.png,6,202,130,349,277
 train/Happy/1555.png,3,271,314,389,431
 train/Sad/5795.png,5,296,67,367,137
 train/Neutral/3433.png,4,174,98,297,220
-train/Angry/4129.png,0,393,221,250,70
+train/Angry/4129.png,0,250,70,393,221
 train/Happy/2663.png,3,195,117,337,258
 train/Angry/5895.png,0,243,129,342,222
 train/Neutral/1336.png,4,236,59,307,130
@@ -25675,7 +25675,7 @@ train/Sad/6014.png,5,202,68,303,170
 train/Fear/4204.png,2,282,56,341,115
 train/Disgust/2760.png,1,155,99,257,201
 train/Surprise/3568.png,6,215,101,362,247
-train/Angry/4684.png,0,304,191,223,70
+train/Angry/4684.png,0,223,70,304,191
 train/Angry/3408.png,0,340,74,482,215
 train/Sad/1826.png,5,330,74,506,250
 train/Fear/2709.png,2,307,85,430,207
@@ -25786,7 +25786,7 @@ train/Surprise/2268.png,6,291,68,350,127
 train/Sad/2582.png,5,422,67,493,137
 train/Disgust/6479.png,1,172,74,348,250
 train/Disgust/5930.png,1,145,76,230,161
-train/Angry/6158.png,0,228,93,175,43
+train/Angry/6158.png,0,175,43,228,93
 train/Happy/5883.png,3,243,117,385,258
 train/Happy/6806.png,3,226,75,344,193
 train/Sad/3167.png,5,110,59,364,313
@@ -25899,7 +25899,7 @@ train/Fear/0945.png,2,227,119,312,204
 train/Sad/6166.png,5,300,50,385,135
 train/Happy/3248.png,3,150,145,292,287
 train/Disgust/5330.png,1,196,110,318,232
-train/Angry/4776.png,0,405,180,329,64
+train/Angry/4776.png,0,329,64,405,180
 train/Happy/0506.png,3,365,87,463,185
 train/Neutral/2663.png,4,399,67,484,152
 train/Happy/2652.png,3,224,87,323,185
@@ -26031,7 +26031,7 @@ train/Surprise/2236.png,6,215,110,285,180
 train/Fear/1771.png,2,181,58,283,160
 train/Surprise/6206.png,6,297,99,399,201
 train/Surprise/5340.png,6,91,109,193,211
-train/Angry/2702.png,0,371,298,230,93
+train/Angry/2702.png,0,230,93,371,298
 train/Surprise/5521.png,6,188,84,273,169
 train/Neutral/5520.png,4,134,60,256,183
 train/Neutral/5156.png,4,135,110,253,228
@@ -26952,7 +26952,7 @@ train/Fear/2946.png,2,172,116,319,262
 train/Disgust/0033.png,1,296,102,380,187
 train/Angry/4826.png,0,251,59,392,201
 train/Happy/5061.png,3,188,97,287,195
-train/Angry/0628.png,0,486,132,429,69
+train/Angry/0628.png,0,429,69,486,132
 train/Surprise/1345.png,6,193,88,264,159
 train/Sad/5589.png,5,317,102,402,187
 train/Sad/2685.png,5,349,86,496,233
@@ -27375,7 +27375,7 @@ train/Happy/2283.png,3,355,87,473,205
 train/Surprise/3509.png,6,390,67,475,152
 train/Happy/6533.png,3,222,102,363,244
 train/Fear/5690.png,2,245,60,368,183
-train/Angry/0308.png,0,286,231,200,149
+train/Angry/0308.png,0,200,149,286,231
 train/Fear/1114.png,2,394,81,464,152
 train/Disgust/3695.png,1,247,56,393,203
 train/Fear/3575.png,2,184,85,306,207
@@ -27877,7 +27877,7 @@ train/Disgust/5211.png,1,171,76,256,161
 train/Fear/4744.png,2,187,56,334,203
 train/Surprise/2726.png,6,215,81,285,152
 train/Surprise/0820.png,6,333,56,392,115
-train/Angry/0957.png,0,323,193,236,76
+train/Angry/0957.png,0,236,76,323,193
 train/Disgust/2926.png,1,255,74,326,145
 train/Sad/1090.png,5,301,88,371,159
 train/Happy/1947.png,3,250,93,419,263
@@ -28077,7 +28077,7 @@ train/Disgust/3993.png,1,181,102,252,173
 train/Fear/1513.png,2,340,103,551,314
 train/Sad/1751.png,5,187,85,309,207
 train/Fear/6689.png,2,140,58,242,160
-train/Angry/6479.png,0,353,188,253,64
+train/Angry/6479.png,0,253,64,353,188
 train/Sad/6587.png,5,196,60,318,183
 train/Disgust/0854.png,1,296,84,380,169
 train/Neutral/1492.png,4,373,110,458,195
@@ -28198,7 +28198,7 @@ train/Disgust/2226.png,1,199,73,321,195
 train/Neutral/6637.png,4,247,56,393,203
 train/Fear/6461.png,2,181,68,283,170
 train/Angry/5030.png,0,194,76,363,246
-train/Angry/6501.png,0,334,222,191,81
+train/Angry/6501.png,0,191,81,334,222
 train/Fear/6030.png,2,191,89,293,191
 train/Disgust/2115.png,1,217,120,319,222
 train/Surprise/0509.png,6,315,68,417,170
@@ -28255,7 +28255,7 @@ train/Happy/3637.png,3,327,102,395,170
 train/Disgust/6339.png,1,334,102,419,187
 train/Angry/5115.png,0,288,75,362,198
 train/Disgust/4491.png,1,307,110,430,232
-train/Angry/0605.png,0,488,166,413,83
+train/Angry/0605.png,0,413,83,488,166
 train/Neutral/5909.png,4,274,50,359,135
 train/Angry/1445.png,0,334,105,400,166
 train/Disgust/3969.png,1,236,92,412,268
@@ -28404,7 +28404,7 @@ train/Disgust/5563.png,1,225,92,401,268
 train/Angry/0890.png,0,369,54,437,122
 train/Disgust/5302.png,1,245,122,368,245
 train/Surprise/6243.png,6,291,84,376,169
-train/Angry/0353.png,0,530,151,465,76
+train/Angry/0353.png,0,465,76,530,151
 train/Happy/4868.png,3,168,87,267,185
 train/Neutral/6167.png,4,277,98,359,180
 train/Angry/6732.png,0,251,74,392,215
@@ -28495,7 +28495,7 @@ train/Fear/1426.png,2,260,86,406,233
 train/Happy/4370.png,3,262,87,380,205
 train/Happy/0883.png,3,226,87,324,185
 train/Angry/3492.png,0,183,117,324,258
-train/Angry/6484.png,0,329,290,182,90
+train/Angry/6484.png,0,182,90,329,290
 train/Surprise/0906.png,6,315,67,386,137
 train/Disgust/5271.png,1,172,56,319,203
 train/Surprise/4262.png,6,59,85,312,339
@@ -28893,7 +28893,7 @@ train/Happy/6804.png,3,250,51,368,169
 train/Disgust/5057.png,1,203,95,274,166
 train/Neutral/4993.png,4,149,92,325,268
 train/Sad/4613.png,5,193,68,252,127
-train/Sad/0868.png,5,446,135,398,82
+train/Sad/0868.png,5,398,82,446,135
 train/Sad/5055.png,5,202,71,349,218
 train/Angry/4144.png,0,298,110,416,228
 train/Angry/1175.png,0,275,57,374,155
@@ -28951,7 +28951,7 @@ train/Disgust/2640.png,1,217,86,364,233
 train/Angry/1477.png,0,393,89,450,145
 train/Disgust/1851.png,1,433,76,518,161
 train/Disgust/5154.png,1,253,89,355,191
-train/Angry/1820.png,0,420,174,341,104
+train/Angry/1820.png,0,341,104,420,174
 train/Sad/5428.png,5,297,56,444,203
 train/Fear/5820.png,2,343,84,428,169
 train/Sad/2104.png,5,296,130,345,180
@@ -29623,7 +29623,7 @@ train/Sad/5769.png,5,245,85,368,207
 train/Sad/2269.png,5,351,95,421,166
 train/Angry/4448.png,0,238,-27,380,115
 train/Happy/2464.png,3,188,99,306,216
-train/Angry/3118.png,0,312,217,234,119
+train/Angry/3118.png,0,234,119,312,217
 train/Surprise/6058.png,6,76,-1,441,364
 train/Fear/6979.png,2,132,58,234,160
 train/Fear/3172.png,2,217,99,319,201
@@ -29913,7 +29913,7 @@ train/Disgust/3900.png,1,254,92,430,268
 train/Neutral/4652.png,4,334,86,481,233
 train/Happy/1904.png,3,219,48,301,130
 train/Neutral/0012.png,4,286,60,408,183
-train/Angry/6947.png,0,378,141,308,75
+train/Angry/6947.png,0,308,75,378,141
 train/Sad/5620.png,5,267,74,338,145
 train/Neutral/6299.png,4,286,122,404,240
 train/Happy/1356.png,3,315,97,414,195
@@ -30145,7 +30145,7 @@ train/Neutral/0047.png,4,243,78,345,180
 train/Angry/1625.png,0,415,87,532,205
 train/Happy/1151.png,3,196,77,294,175
 train/Surprise/0214.png,6,365,95,436,166
-train/Angry/5731.png,0,339,240,198,86
+train/Angry/5731.png,0,198,86,339,240
 train/Sad/5791.png,5,270,73,392,195
 train/Happy/5440.png,3,149,77,247,175
 train/Neutral/3975.png,4,407,59,492,144
@@ -30374,7 +30374,7 @@ train/Sad/0488.png,5,243,81,314,152
 train/Angry/6475.png,0,125,76,295,246
 train/Happy/2261.png,3,283,99,401,216
 train/Happy/1561.png,3,254,131,396,273
-train/Angry/0545.png,0,464,196,427,132
+train/Angry/0545.png,0,427,132,464,196
 train/Sad/5853.png,5,263,99,365,201
 train/Fear/5571.png,2,295,98,417,220
 train/Angry/4756.png,0,259,79,454,288
@@ -30447,7 +30447,7 @@ train/Sad/6317.png,5,207,92,383,268
 train/Fear/6941.png,2,184,99,285,201
 train/Fear/3189.png,2,217,99,319,201
 train/Disgust/4707.png,1,332,73,454,195
-train/Angry/1635.png,0,465,131,386,42
+train/Angry/1635.png,0,386,42,465,131
 train/Neutral/0641.png,4,215,110,285,180
 train/Fear/3544.png,2,232,101,379,247
 train/Neutral/0802.png,4,346,89,448,191
@@ -30458,7 +30458,7 @@ train/Happy/0871.png,3,244,81,326,163
 train/Disgust/5314.png,1,217,71,364,218
 train/Neutral/1935.png,4,215,93,385,263
 train/Neutral/3859.png,4,343,99,461,216
-train/Angry/4959.png,0,292,208,210,82
+train/Angry/4959.png,0,210,82,292,208
 train/Angry/0996.png,0,310,115,392,197
 train/Sad/5814.png,5,303,67,374,137
 train/Disgust/2978.png,1,83,88,154,159
@@ -31348,7 +31348,7 @@ train/Fear/5267.png,2,196,85,318,207
 train/Fear/2183.png,2,207,151,309,253
 train/Neutral/5191.png,4,202,116,349,262
 train/Fear/0561.png,2,351,117,421,188
-train/Angry/5307.png,0,327,209,223,108
+train/Angry/5307.png,0,223,108,327,209
 train/Fear/0420.png,2,365,74,436,145
 train/Sad/5271.png,5,263,130,365,232
 train/Happy/1943.png,3,250,76,419,246
@@ -31597,7 +31597,7 @@ train/Surprise/0177.png,6,258,95,328,166
 train/Fear/2394.png,2,161,102,246,187
 train/Happy/5141.png,3,269,73,351,155
 train/Surprise/2398.png,6,398,130,500,232
-train/Angry/5791.png,0,369,191,262,85
+train/Angry/5791.png,0,262,85,369,191
 train/Disgust/4567.png,1,288,56,347,115
 train/Disgust/3590.png,1,284,109,386,211
 train/Angry/0839.png,0,285,67,384,165
@@ -32145,7 +32145,7 @@ train/Happy/5524.png,3,213,77,312,175
 train/Angry/0031.png,0,337,76,407,165
 train/Neutral/5704.png,4,296,52,367,123
 train/Sad/5294.png,5,258,98,380,220
-train/Angry/1509.png,0,281,220,209,147
+train/Angry/1509.png,0,209,147,281,220
 train/Neutral/5545.png,4,236,110,358,232
 train/Fear/4106.png,2,253,89,355,191
 train/Angry/4254.png,0,243,110,413,280
@@ -32334,7 +32334,7 @@ train/Fear/4989.png,2,146,98,269,220
 train/Disgust/2132.png,1,202,101,349,247
 train/Sad/2242.png,5,186,67,257,137
 train/Angry/6630.png,0,179,102,320,244
-train/Sad/0842.png,5,428,243,342,148
+train/Sad/0842.png,5,342,148,428,243
 train/Fear/0161.png,2,336,78,438,180
 train/Happy/5306.png,3,198,77,297,175
 train/Happy/3418.png,3,209,88,351,230
@@ -32953,7 +32953,7 @@ train/Sad/5604.png,5,258,135,380,257
 train/Angry/4660.png,0,152,73,234,155
 train/Neutral/6615.png,4,281,105,360,211
 train/Happy/5950.png,3,222,88,363,230
-train/Angry/5087.png,0,252,146,201,64
+train/Angry/5087.png,0,201,64,252,146
 train/Neutral/3067.png,4,162,73,284,195
 train/Angry/4437.png,0,202,106,284,188
 train/Fear/5599.png,2,294,86,353,145
@@ -33689,7 +33689,7 @@ train/Fear/2383.png,2,360,137,424,221
 train/Fear/0228.png,2,298,110,420,232
 train/Neutral/6509.png,4,230,56,279,105
 train/Neutral/0044.png,4,336,67,407,137
-train/Angry/6706.png,0,320,247,186,82
+train/Angry/6706.png,0,186,82,320,247
 train/Disgust/1287.png,1,330,102,415,187
 train/Happy/5100.png,3,203,88,271,157
 train/Happy/4231.png,3,176,93,346,263
@@ -34437,7 +34437,7 @@ train/Disgust/2566.png,1,238,109,340,211
 train/Surprise/1717.png,6,202,89,303,191
 train/Surprise/0838.png,6,407,84,492,169
 train/Surprise/2510.png,6,390,67,475,152
-train/Sad/0856.png,5,422,138,381,85
+train/Sad/0856.png,5,381,85,422,138
 train/Neutral/4878.png,4,174,98,297,220
 train/Fear/6802.png,2,149,73,272,195
 train/Fear/6580.png,2,196,73,318,195
@@ -34574,7 +34574,7 @@ train/Sad/5461.png,5,208,116,354,262
 train/Angry/1792.png,0,246,67,344,165
 train/Surprise/1601.png,6,285,163,344,222
 train/Disgust/5586.png,1,189,74,366,250
-train/Angry/1371.png,0,399,185,331,98
+train/Angry/1371.png,0,331,98,399,185
 train/Neutral/5713.png,4,187,101,334,247
 train/Angry/4032.png,0,219,110,337,228
 train/Neutral/3542.png,4,286,38,357,109
@@ -34806,7 +34806,7 @@ train/Angry/5341.png,0,208,88,349,230
 train/Neutral/3350.png,4,229,59,300,130
 train/Fear/3853.png,2,184,135,306,257
 train/Disgust/2231.png,1,202,116,349,262
-train/Angry/3528.png,0,445,276,317,157
+train/Angry/3528.png,0,317,157,445,276
 train/Happy/3253.png,3,136,102,277,244
 train/Fear/0173.png,2,364,84,449,169
 train/Neutral/6078.png,4,205,76,290,161
@@ -35158,7 +35158,7 @@ train/Neutral/1484.png,4,416,93,501,178
 train/Fear/1037.png,2,274,109,376,211
 train/Neutral/5399.png,4,221,85,343,207
 train/Angry/3525.png,0,269,102,410,244
-train/Angry/3242.png,0,369,185,288,91
+train/Angry/3242.png,0,288,91,369,185
 train/Sad/6781.png,5,223,86,369,233
 train/Surprise/3150.png,6,346,68,448,170
 train/Disgust/2087.png,1,249,85,371,207
@@ -35269,7 +35269,7 @@ train/Fear/2891.png,2,321,71,468,218
 train/Surprise/0452.png,6,286,110,408,232
 train/Surprise/2853.png,6,348,74,524,250
 train/Happy/0512.png,3,428,135,485,191
-train/Angry/4062.png,0,333,188,260,64
+train/Angry/4062.png,0,260,64,333,188
 train/Disgust/0888.png,1,236,102,307,173
 train/Surprise/1788.png,6,416,145,501,230
 train/Fear/5621.png,2,283,110,368,195
@@ -35301,7 +35301,7 @@ train/Happy/0285.png,3,275,87,374,185
 train/Surprise/0945.png,6,356,59,441,144
 train/Neutral/5213.png,4,248,110,318,180
 train/Sad/1221.png,5,287,93,372,178
-train/Angry/1114.png,0,379,182,301,88
+train/Angry/1114.png,0,301,88,379,182
 train/Sad/1165.png,5,304,93,389,178
 train/Angry/4390.png,0,260,110,430,280
 train/Surprise/1632.png,6,447,112,508,178
@@ -35546,7 +35546,7 @@ train/Disgust/5873.png,1,181,59,252,130
 train/Surprise/4851.png,6,346,99,399,171
 train/Happy/4531.png,3,222,74,363,215
 train/Disgust/4291.png,1,310,81,381,152
-train/Angry/2235.png,0,438,176,327,35
+train/Angry/2235.png,0,327,35,438,176
 train/Angry/4106.png,0,279,102,421,244
 train/Sad/6837.png,5,211,110,334,232
 train/Disgust/4392.png,1,221,110,343,232
@@ -36133,7 +36133,7 @@ train/Angry/6312.png,0,179,102,320,244
 train/Happy/2433.png,3,327,81,409,163
 train/Fear/2796.png,2,312,67,383,137
 train/Neutral/5160.png,4,267,102,408,244
-train/Happy/5145.png,3,320,177,238,83
+train/Happy/5145.png,3,238,83,320,177
 train/Surprise/6497.png,6,181,109,283,211
 train/Surprise/5828.png,6,171,68,273,170
 train/Happy/2377.png,3,197,102,338,244
@@ -36274,7 +36274,7 @@ train/Disgust/0898.png,1,265,95,335,166
 train/Fear/6558.png,2,83,145,230,292
 train/Surprise/4591.png,6,165,68,267,170
 train/Surprise/5479.png,6,134,98,256,220
-train/Angry/1668.png,0,386,172,328,91
+train/Angry/1668.png,0,328,91,386,172
 train/Happy/4491.png,3,300,68,368,136
 train/Sad/6076.png,5,146,98,269,220
 train/Disgust/1123.png,1,408,89,510,191
@@ -38256,7 +38256,7 @@ train/Angry/0660.png,0,227,164,309,246
 train/Fear/2396.png,2,161,110,246,195
 train/Disgust/2408.png,1,224,146,293,233
 train/Surprise/2221.png,6,273,101,334,168
-train/Angry/3303.png,0,520,169,428,66
+train/Angry/3303.png,0,428,66,520,169
 train/Angry/1339.png,0,305,87,404,185
 train/Happy/0898.png,3,285,81,367,163
 train/Disgust/2305.png,1,149,74,325,250
@@ -38776,7 +38776,7 @@ train/Disgust/4124.png,1,280,105,329,155
 train/Sad/3998.png,5,428,106,458,160
 train/Neutral/4982.png,4,161,102,246,187
 train/Fear/1730.png,2,200,71,347,218
-train/Angry/0290.png,0,424,188,363,115
+train/Angry/0290.png,0,363,115,424,188
 train/Neutral/2915.png,4,326,74,467,215
 train/Happy/5308.png,3,191,27,309,145
 train/Happy/3187.png,3,188,87,287,185
@@ -39019,7 +39019,7 @@ train/Disgust/3123.png,1,276,86,423,233
 train/Neutral/4117.png,4,415,67,513,165
 train/Surprise/4017.png,6,473,74,649,250
 train/Fear/4417.png,2,179,67,264,152
-train/Angry/4495.png,0,259,207,153,81
+train/Angry/4495.png,0,153,81,259,207
 train/Surprise/2705.png,6,444,124,515,195
 train/Happy/6535.png,3,222,59,363,201
 train/Neutral/5965.png,4,233,122,355,245
@@ -39464,7 +39464,7 @@ train/Neutral/6653.png,4,187,26,334,173
 train/Angry/3039.png,0,375,77,473,175
 train/Angry/4260.png,0,165,107,263,205
 train/Neutral/2420.png,4,401,73,483,155
-train/Angry/1410.png,0,410,211,329,98
+train/Angry/1410.png,0,329,98,410,211
 train/Angry/2923.png,0,451,54,508,111
 train/Neutral/5388.png,4,283,85,405,207
 train/Disgust/1443.png,1,334,56,481,203
@@ -39798,7 +39798,7 @@ train/Fear/4010.png,2,98,86,245,233
 train/Neutral/3619.png,4,387,68,489,170
 train/Neutral/3101.png,4,355,68,423,136
 train/Happy/0808.png,3,376,131,458,213
-train/Angry/2982.png,0,346,231,249,94
+train/Angry/2982.png,0,249,94,346,231
 train/Fear/6198.png,2,202,101,349,247
 train/Fear/4605.png,2,274,78,376,180
 train/Surprise/6092.png,6,245,98,368,220
@@ -40432,11 +40432,11 @@ train/Neutral/2144.png,4,152,110,328,286
 train/Surprise/1803.png,6,325,78,427,180
 train/Disgust/6464.png,1,187,116,334,262
 train/Sad/1476.png,5,387,89,489,191
-train/Angry/0887.png,0,408,179,333,88
+train/Angry/0887.png,0,333,88,408,179
 train/Happy/2947.png,3,135,110,253,228
 train/Sad/3530.png,5,157,86,304,233
 train/Happy/0827.png,3,341,81,409,150
-train/Angry/2051.png,0,409,164,342,72
+train/Angry/2051.png,0,342,72,409,164
 train/Neutral/2892.png,4,379,116,525,262
 train/Surprise/6425.png,6,296,81,367,152
 train/Angry/3271.png,0,247,99,365,216
@@ -40816,7 +40816,7 @@ train/Happy/6560.png,3,318,57,416,155
 train/Angry/0855.png,0,237,116,306,184
 train/Angry/1479.png,0,388,94,444,151
 train/Fear/3271.png,2,232,71,379,218
-train/Angry/4600.png,0,278,242,156,97
+train/Angry/4600.png,0,156,97,278,242
 train/Happy/4436.png,3,186,98,268,180
 train/Neutral/2921.png,4,211,85,334,207
 train/Sad/5399.png,5,237,101,384,247
@@ -40902,7 +40902,7 @@ train/Disgust/3170.png,1,282,74,341,133
 train/Surprise/3895.png,6,84,34,338,287
 train/Neutral/2271.png,4,222,99,324,201
 train/Happy/3196.png,3,122,74,263,215
-train/Angry/0459.png,0,245,164,163,102
+train/Angry/0459.png,0,163,102,245,164
 train/Surprise/5040.png,6,341,151,443,253
 train/Happy/2126.png,3,240,45,381,187
 train/Neutral/0857.png,4,182,81,250,150
@@ -41516,7 +41516,7 @@ train/Surprise/1033.png,6,274,58,376,160
 train/Neutral/1954.png,4,358,94,481,276
 train/Surprise/1560.png,6,416,93,501,178
 train/Neutral/1475.png,4,300,88,368,157
-train/Angry/1417.png,0,356,187,272,87
+train/Angry/1417.png,0,272,87,356,187
 train/Angry/0410.png,0,256,67,354,165
 train/Neutral/1915.png,4,305,58,407,160
 train/Angry/2209.png,0,369,88,510,230
@@ -41858,7 +41858,7 @@ train/Fear/1056.png,2,401,167,472,238
 train/Disgust/3994.png,1,172,86,319,233
 train/Neutral/1978.png,4,348,92,524,268
 train/Disgust/5397.png,1,157,86,304,233
-train/Angry/6816.png,0,403,246,263,108
+train/Angry/6816.png,0,263,108,403,246
 train/Sad/0720.png,5,423,56,481,115
 train/Fear/1046.png,2,408,167,479,238
 train/Sad/2933.png,5,185,71,332,218
@@ -42183,7 +42183,7 @@ train/Disgust/4683.png,1,253,89,355,191
 train/Neutral/5183.png,4,269,95,340,166
 train/Surprise/0356.png,6,244,59,329,144
 train/Neutral/5562.png,4,261,92,437,268
-train/Angry/4542.png,0,317,249,197,81
+train/Angry/4542.png,0,197,81,317,249
 train/Angry/2053.png,0,355,81,423,150
 train/Angry/3754.png,0,125,88,267,230
 train/Neutral/6961.png,4,252,71,399,218
@@ -42549,7 +42549,7 @@ train/Disgust/1635.png,1,372,73,495,195
 train/Disgust/0713.png,1,210,76,294,161
 train/Surprise/5998.png,6,221,85,343,207
 train/Angry/3970.png,0,324,102,466,244
-train/Angry/5718.png,0,358,170,274,63
+train/Angry/5718.png,0,274,63,358,170
 train/Neutral/5014.png,4,258,73,380,195
 train/Surprise/3683.png,6,423,101,570,247
 train/Angry/3228.png,0,318,65,400,147
@@ -42566,7 +42566,7 @@ train/Happy/3916.png,3,279,61,347,129
 train/Angry/5904.png,0,167,63,285,181
 train/Angry/4078.png,0,279,110,397,228
 train/Surprise/1090.png,6,322,81,393,152
-train/Angry/4496.png,0,282,213,182,108
+train/Angry/4496.png,0,182,108,282,213
 train/Sad/1368.png,5,321,76,406,161
 train/Sad/5878.png,5,232,101,379,247
 train/Fear/6594.png,2,184,98,306,220
@@ -43763,7 +43763,7 @@ train/Disgust/6454.png,1,202,86,349,233
 train/Surprise/1146.png,6,394,110,464,180
 train/Surprise/5206.png,6,102,93,187,178
 train/Sad/6734.png,5,202,78,303,180
-train/Angry/6802.png,0,344,198,215,70
+train/Angry/6802.png,0,215,70,344,198
 train/Sad/2850.png,5,385,85,507,207
 train/Disgust/5638.png,1,162,85,284,207
 train/Neutral/6498.png,4,389,74,460,145
@@ -43932,7 +43932,7 @@ train/Surprise/5323.png,6,164,60,375,271
 train/Sad/6090.png,5,232,116,379,262
 train/Surprise/4068.png,6,241,74,417,250
 train/Neutral/4504.png,4,215,93,385,263
-train/Angry/1885.png,0,450,161,400,107
+train/Angry/1885.png,0,400,107,450,161
 train/Neutral/4683.png,4,168,145,310,287
 train/Happy/4533.png,3,208,74,349,215
 train/Angry/6586.png,0,258,57,356,155
@@ -44355,7 +44355,7 @@ train/Fear/3826.png,2,157,71,304,218
 train/Disgust/0736.png,1,294,68,396,170
 train/Disgust/0125.png,1,364,76,449,161
 train/Happy/3542.png,3,181,102,322,244
-train/Angry/1432.png,0,357,168,288,88
+train/Angry/1432.png,0,288,88,357,168
 train/Happy/0396.png,3,343,115,425,197
 train/Happy/5521.png,3,143,74,285,215
 train/Disgust/5754.png,1,194,120,296,222
@@ -44410,7 +44410,7 @@ train/Sad/6176.png,5,181,68,283,170
 train/Sad/2669.png,5,364,71,510,218
 train/Neutral/2846.png,4,397,85,519,207
 train/Sad/2125.png,5,329,68,633,372
-train/Angry/1796.png,0,413,201,313,93
+train/Angry/1796.png,0,313,93,413,201
 train/Neutral/6156.png,4,286,75,404,193
 train/Happy/3988.png,3,275,93,445,263
 train/Angry/6102.png,0,265,74,406,215
@@ -44564,7 +44564,7 @@ train/Sad/3237.png,5,313,59,398,144
 train/Surprise/6796.png,6,208,98,331,220
 train/Fear/6559.png,2,98,145,245,292
 train/Sad/0581.png,5,315,89,417,191
-train/Angry/1931.png,0,356,172,282,69
+train/Angry/1931.png,0,282,69,356,172
 train/Fear/2992.png,2,293,68,352,127
 train/Sad/4681.png,5,208,110,331,232
 train/Disgust/2887.png,1,261,110,383,232
@@ -45120,7 +45120,7 @@ train/Angry/0272.png,0,275,127,374,225
 train/Sad/3358.png,5,181,85,434,339
 train/Happy/5721.png,3,168,127,267,225
 train/Angry/2435.png,0,346,98,445,225
-train/Angry/2377.png,0,478,205,402,114
+train/Angry/2377.png,0,402,114,478,205
 train/Neutral/0667.png,4,304,130,451,277
 train/Fear/4843.png,2,300,59,385,144
 train/Surprise/5634.png,6,252,56,311,115
@@ -45239,7 +45239,7 @@ train/Sad/5862.png,5,143,71,289,218
 train/Angry/1799.png,0,325,97,424,195
 train/Neutral/0166.png,4,399,62,458,121
 train/Disgust/1910.png,1,377,58,479,160
-train/Angry/5279.png,0,307,194,226,86
+train/Angry/5279.png,0,226,86,307,194
 train/Fear/3097.png,2,196,89,298,191
 train/Sad/4536.png,5,263,120,365,222
 train/Fear/6315.png,2,305,78,407,180
@@ -45270,7 +45270,7 @@ train/Neutral/0765.png,4,329,131,400,202
 train/Fear/5739.png,2,247,71,393,218
 train/Neutral/2698.png,4,259,158,377,276
 train/Neutral/6413.png,4,142,76,312,246
-train/Angry/6288.png,0,329,153,284,80
+train/Angry/6288.png,0,284,80,329,153
 train/Disgust/2983.png,1,69,110,139,180
 train/Fear/3061.png,2,239,76,323,161
 train/Fear/0125.png,2,364,67,449,152
@@ -45313,7 +45313,7 @@ train/Fear/0485.png,2,164,88,235,159
 train/Disgust/4298.png,1,253,78,355,180
 train/Sad/4175.png,5,290,92,466,268
 train/Neutral/3996.png,4,211,73,334,195
-train/Angry/6507.png,0,365,226,288,74
+train/Angry/6507.png,0,288,74,365,226
 train/Surprise/0376.png,6,347,102,432,187
 train/Happy/0951.png,3,443,98,525,180
 train/Neutral/5336.png,4,88,99,190,201
@@ -46237,7 +46237,7 @@ train/Happy/6025.png,3,208,117,307,215
 train/Neutral/3344.png,4,433,76,518,161
 train/Neutral/0900.png,4,243,95,314,166
 train/Sad/2505.png,5,278,84,363,169
-train/Angry/5867.png,0,328,253,187,99
+train/Angry/5867.png,0,187,99,328,253
 train/Sad/0626.png,5,458,131,529,202
 train/Fear/6184.png,2,207,74,383,250
 train/Happy/1518.png,3,227,81,309,163
@@ -46405,7 +46405,7 @@ train/Fear/2767.png,2,137,98,259,220
 train/Fear/4051.png,2,225,56,401,233
 train/Sad/2514.png,5,387,78,489,180
 train/Happy/1054.png,3,293,88,361,157
-train/Angry/3460.png,0,410,233,281,119
+train/Angry/3460.png,0,281,119,410,233
 train/Sad/0605.png,5,301,88,371,159
 train/Sad/2024.png,5,187,34,441,287
 train/Angry/2266.png,0,398,74,539,215
@@ -46724,7 +46724,7 @@ train/Disgust/6808.png,1,187,116,334,262
 train/Fear/1797.png,2,450,50,535,135
 train/Sad/4217.png,5,295,120,352,194
 train/Neutral/3066.png,4,224,60,346,183
-train/Angry/0954.png,0,358,179,255,71
+train/Angry/0954.png,0,255,71,358,179
 train/Disgust/1670.png,1,321,84,406,169
 train/Surprise/1356.png,6,398,133,444,199
 train/Happy/4115.png,3,252,65,334,147
@@ -47342,7 +47342,7 @@ train/Surprise/5565.png,6,184,85,306,207
 train/Angry/5559.png,0,208,102,349,244
 train/Disgust/3609.png,1,262,86,408,233
 train/Surprise/0652.png,6,309,122,368,181
-train/Angry/2199.png,0,357,269,214,149
+train/Angry/2199.png,0,214,149,357,269
 train/Neutral/0225.png,4,365,77,463,175
 train/Angry/2315.png,0,117,37,320,241
 train/Surprise/4133.png,6,275,71,421,218
@@ -47792,7 +47792,7 @@ train/Happy/4764.png,3,288,47,386,145
 train/Happy/6765.png,3,211,59,381,229
 train/Angry/6361.png,0,176,110,346,280
 train/Neutral/2180.png,4,230,71,377,218
-train/Angry/1338.png,0,405,196,315,81
+train/Angry/1338.png,0,315,81,405,196
 train/Sad/3867.png,5,170,93,255,178
 train/Angry/6907.png,0,193,188,335,330
 train/Fear/0132.png,2,356,67,441,152
